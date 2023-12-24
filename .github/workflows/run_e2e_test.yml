@@ -34,9 +34,6 @@ jobs:
           BASE_URL: 'https://fastify-webapp-sample-staging.up.railway.app/'
           HEADLESS: true
 
-      - name: Run tests
-        run: ./gradlew clean test
-
       - name: Load test report history
         uses: actions/checkout@v3
         if: always()
