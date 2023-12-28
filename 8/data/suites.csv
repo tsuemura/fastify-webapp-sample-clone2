@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Dec 28 00:27:28 GMT 2023","Thu Dec 28 00:27:30 GMT 2023","1934","","一般的なエラーのテスト","","","","ユーザーが存在しないURLにアクセスすると、エラーメッセージと商品一覧へのリンクが表示される",""
+"passed","Thu Dec 28 00:27:30 GMT 2023","Thu Dec 28 00:27:31 GMT 2023","439","","スモークテスト","","","","example.comにアクセスする",""
+"passed","Thu Dec 28 00:27:30 GMT 2023","Thu Dec 28 00:27:33 GMT 2023","2410","","スモークテスト","","","","Webサイトを開きログインする",""
